@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://bipin-mishra1.github.io/csb-drzgjf/static/css/main.7b015bac.chunk.css",
+    "main.js": "https://bipin-mishra1.github.io/csb-drzgjf/static/js/main.2c23d791.chunk.js",
+    "main.js.map": "https://bipin-mishra1.github.io/csb-drzgjf/static/js/main.2c23d791.chunk.js.map",
+    "runtime-main.js": "https://bipin-mishra1.github.io/csb-drzgjf/static/js/runtime-main.7eeaa576.js",
+    "runtime-main.js.map": "https://bipin-mishra1.github.io/csb-drzgjf/static/js/runtime-main.7eeaa576.js.map",
+    "static/js/2.ef07d35c.chunk.js": "https://bipin-mishra1.github.io/csb-drzgjf/static/js/2.ef07d35c.chunk.js",
+    "static/js/2.ef07d35c.chunk.js.map": "https://bipin-mishra1.github.io/csb-drzgjf/static/js/2.ef07d35c.chunk.js.map",
+    "index.html": "https://bipin-mishra1.github.io/csb-drzgjf/index.html",
+    "static/css/main.7b015bac.chunk.css.map": "https://bipin-mishra1.github.io/csb-drzgjf/static/css/main.7b015bac.chunk.css.map",
+    "static/js/2.ef07d35c.chunk.js.LICENSE.txt": "https://bipin-mishra1.github.io/csb-drzgjf/static/js/2.ef07d35c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7eeaa576.js",
+    "static/js/2.ef07d35c.chunk.js",
+    "static/css/main.7b015bac.chunk.css",
+    "static/js/main.2c23d791.chunk.js"
+  ]
+}
